@@ -114,6 +114,9 @@ p {
   .col-md-6 {
     width: 48%;
   }
+  .row div:nth-child(4) {
+	width: 97%;
+  }
   .col-md-7 {
     width: 58.33%;
   }
